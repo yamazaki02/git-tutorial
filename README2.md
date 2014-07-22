@@ -1,3 +1,4 @@
 #Git tutorial
 
--feature-A
+- feature-A
+- fix-B
